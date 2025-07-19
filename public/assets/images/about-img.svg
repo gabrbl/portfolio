@@ -1,0 +1,6 @@
+<!-- Placeholder para about-img.jpg -->
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#764ba2"/>
+  <rect x="50" y="50" width="300" height="200" rx="10" fill="white" opacity="0.3"/>
+  <text x="200" y="160" text-anchor="middle" fill="white" font-family="Arial" font-size="18">Imagen Sobre Mí</text>
+</svg>

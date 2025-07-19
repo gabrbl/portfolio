@@ -1,0 +1,17 @@
+{
+  "name": "Gabriel Rebelles Portfolio",
+  "short_name": "GR Portfolio",
+  "description": "Portfolio profesional de Gabriel Rebelles - Desarrollador Full Stack",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#0a0a12",
+  "background_color": "#0a0a12",
+  "display": "standalone",
+  "start_url": "/",
+  "orientation": "portrait-primary"
+}
