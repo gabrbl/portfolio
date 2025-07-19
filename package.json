@@ -1,8 +1,10 @@
 {
-  "name": "gabrbl",
+  "name": "gabriel-rebelles-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Portfolio profesional de Gabriel Rebelles - Desarrollador Full Stack",
+  "homepage": "https://github.com/gabrbl/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
