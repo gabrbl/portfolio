@@ -243,6 +243,7 @@ body {
   position: relative;
   overflow: hidden;
   background: #0a0a12;
+  padding-top: 80px; /* Espacio para la navbar */
 }
 
 .hero-background {
@@ -1237,6 +1238,19 @@ body {
     font-size: 1.2rem;
   }
 
+  .hero {
+    min-height: 100vh;
+    padding: 100px 0 2rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  .hero-container {
+    padding: 0 1.5rem;
+    margin-top: 2rem;
+  }
+
   .hero-content {
     grid-template-columns: 1fr;
     text-align: center;
@@ -1244,12 +1258,28 @@ body {
   }
 
   .hero-title {
-    font-size: 2.5rem;
+    font-size: 2.8rem;
+    line-height: 1.1;
+  }
+
+  .greeting {
+    font-size: 1.3rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.2rem;
+    line-height: 1.4;
   }
 
   .hero-buttons {
     flex-direction: column;
     align-items: center;
+    gap: 1rem;
+  }
+
+  .image-container {
+    width: 280px;
+    height: 280px;
   }
 
   .about-content {
@@ -1312,8 +1342,40 @@ body {
     padding: 1rem;
   }
 
+  .hero {
+    min-height: 100vh;
+    padding: 120px 0 2rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  .hero-container {
+    padding: 0 1rem;
+    margin-top: 1rem;
+  }
+
   .hero-title {
-    font-size: 2rem;
+    font-size: 2.2rem;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+  }
+
+  .greeting {
+    font-size: 1.1rem;
+    margin-bottom: 0.3rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.1rem;
+    line-height: 1.4;
+    margin-bottom: 1.5rem;
+  }
+
+  .hero-description {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 2rem;
   }
 
   .section-title {
@@ -1321,11 +1383,26 @@ body {
   }
 
   .hero-buttons {
-    gap: 0.5rem;
+    gap: 0.8rem;
+    flex-direction: column;
+    width: 100%;
+    max-width: 280px;
+    margin: 0 auto;
   }
 
   .btn {
-    padding: 10px 20px;
-    font-size: 0.9rem;
+    padding: 12px 24px;
+    font-size: 0.95rem;
+    width: 100%;
+  }
+
+  .image-container {
+    width: 240px;
+    height: 240px;
+    margin: 0 auto;
+  }
+
+  .hero-scroll {
+    bottom: 1rem;
   }
 }
