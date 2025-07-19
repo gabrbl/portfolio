@@ -1287,6 +1287,10 @@ body {
     gap: 2rem;
   }
 
+  .about-image {
+    display: none;
+  }
+
   .about-stats {
     grid-template-columns: 1fr;
     gap: 1rem;
@@ -1404,5 +1408,9 @@ body {
 
   .hero-scroll {
     bottom: 1rem;
+  }
+
+  .about-image {
+    display: none;
   }
 }
