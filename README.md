@@ -2,6 +2,12 @@
 
 Portfolio personal desarrollado con React y Vite, mostrando mis habilidades como desarrollador Full Stack.
 
+## 🌐 Ver Portfolio en Vivo
+
+**[👉 gabrbl.dev](https://gabrbl.dev)**
+
+---
+
 ## 🚀 Tecnologías Utilizadas
 
 - **React** - Librería de JavaScript para interfaces de usuario
@@ -70,6 +76,7 @@ También puedes agregar tu CV en `public/assets/cv/Gabriel-Rebelles-CV.pdf`
 
 ## 📧 Contacto
 
+- **Portfolio**: [gabrbl.dev](https://gabrbl.dev)
 - **Email**: gabriel.rebelles1@gmail.com
 - **LinkedIn**: [Gabriel Rebelles](https://linkedin.com/in/gabriel-rebelles)
 - **GitHub**: [gabrbl](https://github.com/gabrbl)
