@@ -31,6 +31,14 @@ const Experience = () => {
       company: "Seidor",
       description: "Desarrollé una plataforma para gestionar procesos de innovación, centralizando y automatizando flujos de trabajo para facilitar la colaboración en equipos. Diseñé microservicios en Express con TypeScript, facilitando un crecimiento fluido en la base de datos. Administré bases de datos PostgreSQL y MongoDB, asegurando consistencia de datos y alto rendimiento operativo. Desarrollé el frontend en Angular, consiguiendo una interfaz responsiva y eficiente en dispositivos móviles y web. Apliqué pruebas unitarias con Jest, reforzando la estabilidad en cada versión liberada.",
       technologies: ["Express", "TypeScript", "PostgreSQL", "MongoDB", "Angular", "Jest"]
+    },
+    {
+      id: 4,
+      period: "Enero 2021 - Mayo 2021",
+      title: "Cyber Security Analyst",
+      company: "NovaRed",
+      description: "Desarrollé scripts en JavaScript y Python para automatizar tareas de seguridad y análisis de vulnerabilidades. Brindé soporte técnico a usuarios internos dentro de la empresa. Implementé medidas de seguridad en aplicaciones web, mejorando la protección contra ataques comunes. Colaboré con el equipo de desarrollo para integrar prácticas de seguridad desde las fases iniciales del ciclo de vida del software.",
+      technologies: ["JavaScript", "Python", "CyberArk", "Análisis de Vulnerabilidades"],
     }
   ]
 
